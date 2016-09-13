@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846434234087",
+    "firebase_url": "https://fbandrfirstlook.firebaseio.com",
+    "project_id": "fbandrfirstlook",
+    "storage_bucket": "fbandrfirstlook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846434234087:android:15eb7d21ee405312",
+        "android_client_info": {
+          "package_name": "app.koki.com.fbandrfirstlook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846434234087-ao502fdtlr3hmco1fteh3nknhq1ij58h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.koki.com.fbandrfirstlook",
+            "certificate_hash": "63FCEBCA2FE33C9D1AB47A4395B2459E4B494079"
+          }
+        },
+        {
+          "client_id": "846434234087-v0e44otgdusd0dh1d1q4t9roao19e48c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCstuzPnARbI5zTTui-gW2KrEq33SNvn9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846434234087-v0e44otgdusd0dh1d1q4t9roao19e48c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
