@@ -1,6 +1,6 @@
 # Firebase-for-Android-First-Look
 
-Google Firebase for Android: First Look   /lynda.com/
+Lynda - Google Firebase for Android: First Look
 
   -Creating a Firebase project
   -Adding Firebase Analytics
